@@ -24,6 +24,3 @@
     <br>
     <input type="submit">
 </form>
-
-<!-- <div id="map"></div>
-<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyC2ad-1mW-TqpJySaNx9WGwxmo2xkqLgBQ&callback=initMap&v=weekly" defer></script> -->
